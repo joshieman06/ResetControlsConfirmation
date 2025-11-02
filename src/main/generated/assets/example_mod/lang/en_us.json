@@ -1,4 +1,4 @@
 {
-  "example_mod.configuration.client": "client",
-  "example_mod.configuration.example": "example"
+  "reset_controls_confirmation.configuration.client": "client",
+  "reset_controls_confirmation.configuration.example": "example"
 }
